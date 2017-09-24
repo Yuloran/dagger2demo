@@ -17,7 +17,7 @@ public class MainModel implements IBaseModel {
 
     @Override
     public void start() {
-        mPresenter.onLoadSuccess(new StudentBean("xxxxxxxxx"));
+        mPresenter.onLoadSuccess(new StudentBean("刘德华"));
     }
 
     @Override
